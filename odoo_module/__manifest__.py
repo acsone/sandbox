@@ -6,5 +6,5 @@
     "license": "LGPL-3",
     "installable": True,
     "auto_install": False,
-    "key": "value2",
+    "key": "value3",
 }
