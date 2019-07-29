@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo12-addon-odoo_module',
+        'odoo12-addon-odoo_module2',
     ],
     classifiers=[
         'Programming Language :: Python',
