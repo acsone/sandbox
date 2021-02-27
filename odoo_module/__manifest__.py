@@ -7,4 +7,5 @@
     "installable": True,
     "auto_install": False,
     "key": "value3",
+    "maintainers": ["sbidoul"],
 }
